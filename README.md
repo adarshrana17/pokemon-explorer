@@ -4,7 +4,7 @@ An interactive React application that fetches and displays the first 150 Pokémo
 
 ## 🔗 Live Demo
 
-[Click here to view the live app](https://your-deployment-url.com)
+[Click here to view the live app](pokemon-explorer-rust.vercel.app)
 
 ## 🚀 Features
 
